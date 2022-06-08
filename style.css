@@ -1,0 +1,181 @@
+/*sfondo*/
+body {
+  background-image: url(background.png);
+  position: sticky;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  }
+  html {
+    scroll-behavior: smooth;
+  }
+*{
+    font-family: 'Teko', sans-serif;
+    }
+/*bell stu color #80ff95 (verde chiaro)*/
+/*prima pagina*/
+.link_iniziali {
+  text-decoration: none;
+  font-size: 140%;
+  font-weight: normal;
+}
+.section--top {
+    height: 104vh;
+}
+.nome {
+  padding-left: 20px;
+  font-size: 400%;
+  font-weight: 400;
+  margin-top: 20px;
+  margin-bottom: 0
+}
+.linea {
+  border-left: solid 1px #FFFFFF;
+  height: 210px;
+}
+.cheneso {
+  display: inline-block;
+  float: left;
+  padding-left: 20px
+}
+.section--top--text {
+  padding-left: 20px;
+}
+.frecce {
+  position: fixed;
+  left: 93vw;
+  top: 90vh
+}
+.freccia--su {
+  width: 60%;
+  height: 60%;
+  padding-bottom: 10px;
+}
+.section--chi_sono {
+  height: 104vh;
+}
+.chi_sono--title {
+  font-size: 200%;
+  padding-left: 20px;
+  padding-top: 20px
+}
+.chi_sono--text {
+  padding-top:  8vh;
+  padding-left: 3vw;
+  font-size: 120%
+}
+.border {
+  border-top: 1px solid #FFFFFF;
+  opacity: 0.4;
+  margin-left: 10vh;
+  margin-right: 10vh
+}
+/*illustrazioni*/
+.illustrazioni--text__galleria {
+  font-size: 200%;
+  padding-left: 20px;
+  padding-top: 20px
+}
+.immagine__galleria {
+  width: 100%;
+  padding-top: 60px;
+  padding-bottom: 60px
+}
+.galleria {
+  padding-left: 33%;
+  padding-right: 33%
+}
+/*brand design*/
+.brand_design {
+  font-size: 200%;
+  padding-left: 20px;
+  padding-top: 20px
+}
+/*natura Salento*/
+.natura_salento {
+  width: 100%;
+  padding-top: 60px;
+  padding-bottom: 60px
+}
+.natura_salento__loghi {
+  padding-left: 10%;
+  padding-right: 10%
+}
+/*rea*/
+.rea__loghi--obj {
+  padding-left: 10%;
+  padding-right: 10%
+}
+.rea {
+  width: 100%;
+  padding-top: 60px;
+  padding-bottom: 60px
+}
+/*fotr*/
+.fotr__loghi--obj {
+  padding-left: 10%;
+  padding-right: 10%
+}
+.fotr {
+  width: 100%;
+  padding-top: 60px;
+  padding-bottom: 60px
+}
+/*contatti*/
+.section--contatti {
+  font-size: 100%;
+  padding-left: 20px;
+}
+.contatti__text {
+  font-size: 150%;
+}
+.linknomargine {
+  margin: 0
+}
+a {
+    color: #FFFFFF
+}
+a:hover {
+  color: #80ff95
+}
+::-webkit-scrollbar {
+  width: 10px
+}
+::-webkit-scrollbar-track {
+  background: #022018;
+}
+::-webkit-scrollbar-thumb {
+  background: #114525;
+  border-radius: 100vw;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #29873b
+}
+.Chi_sono--text__top {
+  color: #FFFFFF
+}
+.Chi_sono--text__top:hover {
+  font-weight: 500;
+  color: #80ff95
+}
+.Illustrazioni--text__top {
+  color: #FFFFFF
+}
+.Illustrazioni--text__top:hover {
+  font-weight: 500;
+  color: #80ff95
+}
+.Brand_Design--text__top {
+  color: #FFFFFF
+}
+.Brand_Design--text__top:hover {
+  font-weight: 500;
+  color: #80ff95
+}
+.Contatti--text__top {
+  color: #FFFFFF
+}
+.Contatti--text__top:hover {
+  font-weight: 500;
+  color: #80ff95
+}
