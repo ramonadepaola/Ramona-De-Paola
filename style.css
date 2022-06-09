@@ -180,3 +180,11 @@ a:hover {
   font-weight: 500;
   color: #80ff95
 }
+
+/*MOBILE*/
+@media all {
+  .galleria {
+    padding-left: 10%;
+    padding-right: 10%
+  }
+}
