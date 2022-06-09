@@ -71,6 +71,9 @@ body {
   margin-right: 10vh
 }
 /*illustrazioni*/
+.illu {
+  margin-top: 20 px;
+}
 .illustrazioni--text__galleria {
   font-size: 200%;
   padding-left: 20px;
