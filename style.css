@@ -68,12 +68,10 @@ body {
   border-top: 1px solid #FFFFFF;
   opacity: 0.4;
   margin-left: 10vh;
-  margin-right: 10vh
+  margin-right: 10vh;
+  padding-top: 10px;
 }
 /*illustrazioni*/
-.illu {
-  margin-top: 20 px;
-}
 .illustrazioni--text__galleria {
   font-size: 200%;
   padding-left: 20px;
