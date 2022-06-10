@@ -201,7 +201,13 @@ a:hover {
     height: 100%;
     padding-bottom: 40px;
   }
-  .loghi {
+  .natura_salento__loghi {
+    padding: 0
+  }
+  .rea__loghi--obj {
+    padding: 0
+  }
+  .fotr__loghi--obj {
     padding: 0
   }
 }
