@@ -56,6 +56,7 @@ body {
 }
 .section--chi_sono {
   height: 104vh;
+  display: inline-block;
 }
 .chi_sono--title {
   font-size: 200%;
@@ -69,14 +70,13 @@ body {
   padding-top:  8vh;
   padding-left: 3vw;
   font-size: 120%;
-  display: block;
 }
 .border {
   border-top: 1px solid #FFFFFF;
   opacity: 0.4;
   margin-left: 10vh;
   margin-right: 10vh;
-  padding-top: 10px;
+  margin-top: 5vh
 }
 /*illustrazioni*/
 .illustrazioni--text__galleria {
