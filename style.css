@@ -201,6 +201,11 @@ a:hover {
   color: #80ff95
 }
 
+::selection {
+  background: #80ff95;
+  color: white
+}
+
 /*MOBILE*/
 @media (max-width: 900px) {
   .galleria {
