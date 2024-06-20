@@ -10,7 +10,7 @@ body {
     scroll-behavior: smooth;
   }
 *{
-    font-family: 'Teko', sans-serif;
+    font-family: 'Popp', sans-serif;
     }
 /*bell stu color #80ff95 (verde chiaro)*/
 /*prima pagina*/
@@ -28,9 +28,6 @@ body {
   font-weight: 400;
   margin-top: 20px;
   margin-bottom: 0;
-  text-shadow: 0px 0px 5px #fff,
-        0 0 20px #51e225,
-          0 0 30px #51e225;
 }
 .linea {
   border-left: solid 1px #FFFFFF;
@@ -62,9 +59,6 @@ body {
   font-size: 200%;
   padding-left: 20px;
   padding-top: 20px;
-  text-shadow: 0px 0px 5px #fff,
-        0 0 10px #51e225,
-          0 0 15px #51e225;
 }
 .chi_sono--text {
   padding-top:  8vh;
@@ -83,7 +77,6 @@ body {
   font-size: 200%;
   padding-left: 20px;
   padding-top: 20px;
-  text-shadow: 0px 0px 10px hsl(130, 100%, 84%, 1);
 }
 .immagine__galleria {
   width: 100%;
@@ -99,7 +92,6 @@ body {
   font-size: 200%;
   padding-left: 20px;
   padding-top: 20px;
-  text-shadow: 0px 0px 10px hsl(130, 100%, 84%, 1);
 }
 /*natura Salento*/
 .natura_salento {
@@ -139,7 +131,6 @@ body {
 }
 .contatti__text {
   font-size: 150%;
-  text-shadow: 0px 0px 10px hsl(130, 100%, 84%, 1);
 }
 .linknomargine {
   margin: 0
