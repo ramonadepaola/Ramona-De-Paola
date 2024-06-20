@@ -1,6 +1,6 @@
 /*sfondo*/
 body {
-  background-image: url(background.png);
+  background-color: white;
   position: sticky;
   background-repeat: no-repeat;
   background-attachment: fixed;
